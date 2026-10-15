@@ -1,5 +1,3 @@
 <p align="center">
-
-  <img src"https://i.giphy.com/VUC9YdLSnKuJy.webp" />
-"/>
+  <img src="https://giphy.com/gifs/cute-kawaii-VUC9YdLSnKuJy" alt="Anime GIF" width="400" />
 </p>
